@@ -1,0 +1,42 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Proyek Rumah Bapak Yongki",
+      "NamaPemilik": "Bapak Yongki",
+      "Alamat": "Jl. Yang Lurus no. 1",
+      "NoTelepon": "081272777777",
+      "NamaMandor": "Edy",
+      "JumlahPekerja": 20
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Proyek Gedung Baru PT. Dewi19",
+      "NamaPemilik": "Ibu Twice",
+      "Alamat": "Jl. Kangen no. 19",
+      "NoTelepon": "08124567890",
+      "NamaMandor": "Narto",
+      "JumlahPekerja": 30
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Proyek Rumah Bapak Yongki",
+      "NamaPemilik": "Bapak Yongki",
+      "Alamat": "Jl. Yang Lurus no. 1",
+      "NoTelepon": "081272777777",
+      "NamaMandor": "Edy",
+      "JumlahPekerja": 20
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Proyek Rumah Bapak Yongki",
+      "NamaPemilik": "Bapak Yongki",
+      "Alamat": "Jl. Yang Lurus no. 1",
+      "NoTelepon": "081272777777",
+      "NamaMandor": "Edy",
+      "JumlahPekerja": 20
+    }
+  ]
